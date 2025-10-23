@@ -24,3 +24,13 @@ Transport Department Project managed using Scrum methodology
 
 
 
+\## US-03: Generate Transport Reports
+
+\*\*Role:\*\* Officer  
+
+\*\*Goal:\*\* Generate transport reports  
+
+\*\*Reason:\*\* For audits and record keeping
+
+
+
